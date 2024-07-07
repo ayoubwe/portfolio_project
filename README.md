@@ -28,4 +28,4 @@ In **The Kid Crossing the Road**, you control a character that must cross a busy
 
 ---
 
-Feel free to give feedback so that we can improve the project. If you need further customization or additional sections, let me know!
+Feel free to give feedback so that we can improve the project. If you need further customization or additional sections, let me know!!
