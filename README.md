@@ -44,15 +44,15 @@ In **The Kid Crossing the Road**, you control a character tasked with crossing a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/kid-crossing-road.git
+   git clone https://github.com/ayoubwe/portfolio_project.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd kid-crossing-road
+   cd portfolio_project
    ```
 3. Run the game:
    ```bash
-   python main.py
+   python click_to_play.py
    ```
 
 ## How to Play
@@ -66,10 +66,6 @@ In **The Kid Crossing the Road**, you control a character tasked with crossing a
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Feedback
 
 We'd love to hear from you! Feel free to open an issue or submit a pull request with your feedback or suggestions for improvements.
@@ -77,7 +73,3 @@ We'd love to hear from you! Feel free to open an issue or submit a pull request 
 ---
 
 Feel free to customize further or add more sections as needed. Happy gaming!
-
----
-
-This revised README includes more sections, a more engaging introduction, and clear instructions for installation and gameplay. Additionally, it invites contributions and feedback, creating a more interactive and community-focused project.
